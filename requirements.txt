@@ -1,0 +1,10 @@
+dill
+dlib
+fire
+h5py
+matplotlib
+numpy
+pyyaml
+scikit-learn
+scipy
+tqdm
