@@ -15,3 +15,9 @@ $ bash download.sh
 
 Run 
 Python deepface.py
+
+
+
+
+see the result.
+https://youtu.be/wYeQzsMt608?t=2
